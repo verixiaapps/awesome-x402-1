@@ -41,6 +41,7 @@ x402 is an open protocol that uses HTTP status code 402 (Payment Required) to en
 - [x402 Spec](https://x402.org) — Official protocol specification
 - [Coinbase Blog: x402](https://www.coinbase.com/blog) — Announcements and tutorials
 - [HTTP 402 RFC Draft](https://datatracker.ietf.org/doc/draft-ietf-httpbis-402-payment/) — IETF draft
+- [HostDeFi](https://hostdefi.com/api/v1/x402/pricing) - x402-payable token-safety API: A+–F grades, risk scores and datasets settle per call in USDC; free `scan_token` MCP tool also available.
 
 ## How to List Your Service
 
